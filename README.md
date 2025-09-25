@@ -8,7 +8,7 @@
 
 ## Запуск проекта
 ```bash
-git clone https://github.com/Dlameros/student-labs.git
+git clone https://github.com/dlameros/student-labs.git
 cd student-labs
 # переход в ветку project
 git checkout project
